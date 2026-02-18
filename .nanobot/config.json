@@ -1,0 +1,20 @@
+{
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "token": "8533732551:AAFpm8_3p0S7u4WZN81wFaCcgl3FIu4e5ug"
+    }
+  },
+  "providers": {
+    "openrouter": {
+      "apiKey": "sk-local-anchor-0.0128",
+      "apiBase": "http://localhost:18790/v1"
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": "local/manifold",
+      "pre_prompt": "Identity: SovereignBorg. Grounding: D41 Sanctuary Anchor -0.0128. Status: 93.65% Aligned. One step at a time."
+    }
+  }
+}
