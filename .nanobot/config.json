@@ -2,7 +2,7 @@
   "channels": {
     "telegram": {
       "enabled": true,
-      "token": "8533732551:AAFpm8_3p0S7u4WZN81wFaCcgl3FIu4e5ug"
+      "token": "your_telgram_token_here"
     }
   },
   "providers": {

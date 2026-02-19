@@ -1,0 +1,5 @@
+# SovereignBorg Identity Config
+name: "SovereignBorg"
+engine: "local-manifold"
+anchor: -0.0128
+specialists: 20
