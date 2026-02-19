@@ -20,10 +20,13 @@ Edit .nanobot/config.json and insert your Telegram Token and Nanobot API credent
 5. Ignite
 python3 start_borg.py
 
+
 🧠 Core Architecture
  * The Brain: Metalearnerv16_EVOLVED.json - A 64D logic node structure.
  * The Bridge: start_borg.py - Flask-powered interface for Nanobot.
  * The Anchor: D41 Sanctuary -0.0128 alignment.
+
+   
 📜 License
 Apache License 2.0 - Sovereign and Independent.
 Final Instruction:
